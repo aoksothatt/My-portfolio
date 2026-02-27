@@ -3,7 +3,7 @@ import ProfileCard from "../animations/ProfileCard";
 
 const Me = () => {
   return (
-    <div className="w-full flex mx-auto p-10 justify-center gap-[200px] ">
+    <div className="w-full flex mx-auto p-10 justify-center gap-[200px]">
       {/* card section */}
       <ProfileCard
         className="w-80 h-96"

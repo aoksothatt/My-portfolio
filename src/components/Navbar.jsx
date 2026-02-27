@@ -3,7 +3,15 @@ import React from "react";
 const Navbar = () => {
   const handleScroll = (event) => {
     const element = document.getElementById(event);
-    element.scrollIntoView({ behavior: "smooth" });
+    const offset = 80; // adjust this value (e.g. height of a fixed navbar)
+
+    const elementPosition = element.getBoundingClientRect().top;
+    const offsetPosition = elementPosition + window.scrollY - offset;
+
+    window.scrollTo({
+      top: offsetPosition,
+      behavior: "smooth",
+    });
   };
 
   return (

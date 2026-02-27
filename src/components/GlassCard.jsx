@@ -39,6 +39,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -88,7 +89,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* section card */}
+      {/* 2 card */}
       <div
         style={{
           width: 380,
@@ -114,6 +115,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -187,6 +189,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -236,7 +239,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 5 */}
+      {/* card 4 */}
       <div
         style={{
           width: 380,
@@ -262,6 +265,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -311,7 +315,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 6 */}
+      {/* card 5 */}
       <div
         style={{
           width: 380,
@@ -337,6 +341,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -386,7 +391,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 7 */}
+      {/* card 6 */}
       <div
         style={{
           width: 380,
@@ -412,6 +417,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -461,7 +467,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 8 */}
+      {/* card 7 */}
       <div
         style={{
           width: 380,
@@ -487,6 +493,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -536,7 +543,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 9 */}
+      {/* card 8 */}
       <div
         style={{
           width: 380,
@@ -562,6 +569,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -611,7 +619,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 10 */}
+      {/* card 9 */}
       <div
         style={{
           width: 380,
@@ -637,6 +645,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -686,7 +695,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 11 */}
+      {/* card 10 */}
       <div
         style={{
           width: 380,
@@ -712,6 +721,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -761,7 +771,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 12 */}
+      {/* card 11 */}
       <div
         style={{
           width: 380,
@@ -787,6 +797,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
@@ -836,7 +847,7 @@ const GlassCard = () => {
           </div>
         </div>
       </div>
-      {/* card 13 */}
+      {/* card 12 */}
       <div
         style={{
           width: 380,
@@ -862,6 +873,7 @@ const GlassCard = () => {
           position: "relative",
           overflow: "hidden",
         }}
+        className="holographic-card"
       >
         {/* Top-left shimmer highlight — gives the glass "edge" refraction */}
         <div
