@@ -1,5 +1,6 @@
 import { useRef, useEffect } from "react";
 import { gsap } from "gsap";
+import myproject from "../assets/tech-img/Screenshot 2026-03-02 090549.png";
 
 const ChromaGrid = ({
   items,
@@ -17,13 +18,13 @@ const ChromaGrid = ({
 
   const demo = [
     {
-      image: "https://i.pravatar.cc/300?img=5",
-      title: "Alex Rivera",
-      subtitle: "Full Stack Developer",
-      handle: "@alexrivera",
+      image: myproject,
+      title: "Khmer Fresh",
+      subtitle: "Online Grocery Store",
+      handle: "@aoksothat",
       borderColor: "#4F46E5",
       gradient: "linear-gradient(145deg,#4F46E5,#000)",
-      url: "https://github.com/",
+      url: "",
     },
     {
       image: "https://i.pravatar.cc/300?img=11",

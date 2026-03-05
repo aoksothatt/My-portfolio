@@ -2,7 +2,7 @@ import Particles from "../animations/Particles";
 import Navbar from "../components/Navbar";
 import Lanyard from "../animations/Lanyard";
 import ClickSpark from "../animations/ClickSpark";
-import ShinyText from "../animations/ShinyText";
+
 import TextType from "../animations/TextType";
 import SplitText from "../animations/SplitText";
 import Me from "../components/Me";
@@ -10,6 +10,7 @@ import GlassCard from "../components/GlassCard";
 import "../Style/HoverGlass.css";
 import ChromaGrid from "../components/ChromaGrid";
 import Contact from "./Contact";
+
 
 function WelcomePage() {
   const handleAnimationComplete = () => {
@@ -147,6 +148,8 @@ function WelcomePage() {
       <div id="Contact">
         <Contact />
       </div>
+
+      
     </div>
   );
 }
